@@ -16,11 +16,15 @@ No credentials will be stored or made public on this or any other project reposi
 ### REFERENCES
 Learning Git and GitHub by Ray Villalobos on LinkedIn Learning
 https://www.linkedin.com/learning/certificates/8628c83e71080540fa4cec08a4a88eb9e4a090517650933dd4338cc7ab6c53b7
+
 GitHub Security Best Practices
 https://resources.github.com/downloads/109_SecurityassessmentPDF.1.pdf
+
 Adding a file to a repository 
 https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+
 About READMEs
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+
 Updating your GitHub access credentials
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/updating-your-github-access-credentials
