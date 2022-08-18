@@ -14,7 +14,8 @@ Git will classify every file in the user's projects as follow: tracked, untracke
 No credentials will be stored or made public on this or any other project repositories.
 
 ### REFERENCES
-Learning Git and GitHub by Ray Villalobos on LinkedIn Learning https://www.linkedin.com/learning/certificates/8628c83e71080540fa4cec08a4a88eb9e4a090517650933dd4338cc7ab6c53b7
+Learning Git and GitHub by Ray Villalobos on LinkedIn Learning
+https://www.linkedin.com/learning/certificates/8628c83e71080540fa4cec08a4a88eb9e4a090517650933dd4338cc7ab6c53b7
 GitHub Security Best Practices
 https://resources.github.com/downloads/109_SecurityassessmentPDF.1.pdf
 Adding a file to a repository 
