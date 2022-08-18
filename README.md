@@ -11,7 +11,8 @@ Firstly, create a feature branch from the main branch which will create safe env
 Git will classify every file in the user's projects as follow: tracked, untracked and ignored. .gitignore makes provision  for files that the user wants Git to ignore and normally this special file is found at the root of the user's repository. As the semester progresses the user will continuously update this file to ensure that no unwanted files from VS Code or files containing sensitive information will be uploaded onto Github.
  
 ## STORAGE OF CREDENTIALS AND SENSITIVE INFORMATION
-No credentials will be stored or made public on this or any other project repositories.
+No credentials will be stored or made public on this or any other project repository.  
+The Guidelines (Help) of Github was used to create a "strong password".  
 
 ### REFERENCES
 Learning Git and GitHub by Ray Villalobos on LinkedIn Learning
