@@ -1,50 +1,61 @@
-## CMPG-323-Overview---23558407
+# CMPG-323-Overview---23558407
 
-# PROJECT REPOSITORIES
+## PROJECT REPOSITORIES
 The plan for the semester will be to create four additionally  Repositories containing the information of the next four Projects for the semester.  This file will contain informative information on each Project with the aim to assist users what the scope will be for each  Project as well as how they can get started.
 
-# PROJECT BRANCHING STRARTEGY
+## PROJECT BRANCHING STRARTEGY
 The branching strategy that will be used throughout the semester is Github Flow and will be implemented in four steps: creating a feature branch, implementing changes, merging to the main branch and deletion of the feature branch.
 Firstly, create a feature branch from the main branch which will create safe environment to work on the main branch without affecting it. This will allow the user to record the history of the project as it is being developed.  Once the desired changes are implemented the user must merge the main and feature branch.  With the merge of the branches complete, the user must delete the feature branch.  Through deleting the feature branch, it shows that the work on the feature branch is complete and will prevent the user from using the old branch again. 
 
-# EXPLAIN .gitignore
+## EXPLAIN .gitignore
 Git will classify every file in the user's projects as follow: tracked, untracked and ignored. .gitignore makes provision  for files that the user wants Git to ignore and normally this special file is found at the root of the user's repository. As the semester progresses the user will continuously update this file to ensure that no unwanted files from VS Code or files containing sensitive information will be uploaded onto Github.
  
-# STORAGE OF CREDENTIALS AND SENSITIVE INFORMATION
+## STORAGE OF CREDENTIALS AND SENSITIVE INFORMATION
 No credentials will be stored or made public on this or any other project repository.  
 The Guidelines (Help) of Github was used to create a "strong password".
 
-# TRAINING
+## TRAINING
 1 Badge - Introduction to GitHub
 2 Badge - How to create and modify a Git project
 3 Badge - Introduction to Git
 4 Certification - Learning Git and Github
 
-## PROJECT 3
+# PROJECT 3
 
 
-# TRAINING
+## TRAINING
 1 Badge - Create a web API with ASP.NET Core controllers
 
-## PROJECT 4
+# PROJECT 4
 
 
 
 
-# TRAINING
+## TRAINING
 1 Certification - Learning UIPath
 
 
-## PROJECT 5
+# ROJECT 5
+The Purpose of Project 5 is to build a Dashboard through the use of Microsoft Power BI. Currently the business already has a lisensing agreement in place with Microsoft. As part of the COI Development Team I will create a Dashboard that will allow all the stakeholders in the organization to see the same information pertaining the status of the IoT devices on various platforms.
 
+To navigate through Microsoft Power BI it is recommendend to read through the following document: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-experience
 
+A secure report with the name Connected Office was created as part of the IoT Dashboard – Device Monitoring was created with the following pages:
+High-Level Metrics: Summary that shows the users the important data.
+Device Monitoring: User will be able to see the status of the registered devices.
+Device Registration: Provide more details on the registered devices.
 
+The following steps were followed to get the raw data to a workable conditions:
+Data clean up
+Removed duplicates
+Corrected data types
 
-# TRAINING
+## TRAINING
 1 Badge - Design a data model in Power BI
 2 Badge - Introduction to Power BI
 
-## REFERENCES
+
+# REFERENCES
 Learning Git and GitHub by Ray Villalobos on LinkedIn Learning
 https://www.linkedin.com/learning/certificates/8628c83e71080540fa4cec08a4a88eb9e4a090517650933dd4338cc7ab6c53b7
 GitHub Security Best Practices
