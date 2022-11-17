@@ -1,5 +1,8 @@
 # CMPG-323-Overview---23558407
 
+## PROJECT LINK
+
+
 ## PROJECT REPOSITORIES
 The plan for the semester will be to create four additionally  Repositories containing the information of the next four Projects for the semester.  This file will contain informative information on each Project with the aim to assist users what the scope will be for each  Project as well as how they can get started.
 
@@ -27,15 +30,13 @@ The Guidelines (Help) of Github was used to create a "strong password".
 1 Badge - Create a web API with ASP.NET Core controllers
 
 # PROJECT 4
-
-
-
+The programmer was tasked to complete a business user acceptance test (UAT) from an Excel Workbook with the file name: Connected Office Test Data. As part of the Project the programmer was instructed to use the Web Application platform from Project 3 as well as UIPath to complete the listed deliverables as discussed in the Project's requirements. The programmer chose UIPath which uses "robots" (Robotic Process Automation (RPA)) to complete these tedious tasks in a minimum time.
 
 ## TRAINING
 1 Certification - Learning UIPath
 
 
-# ROJECT 5
+# PROJECT 5
 The Purpose of Project 5 is to build a Dashboard through the use of Microsoft Power BI. Currently the business already has a lisensing agreement in place with Microsoft. As part of the COI Development Team I will create a Dashboard that will allow all the stakeholders in the organization to see the same information pertaining the status of the IoT devices on various platforms.
 
 To navigate through Microsoft Power BI it is recommendend to read through the following document: https://learn.microsoft.com/en-us/power-bi/consumer/end-user-experience
