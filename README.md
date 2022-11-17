@@ -1,7 +1,7 @@
 # CMPG-323-Overview---23558407
 
 ## PROJECT LINK
-
+https://github.com/users/LeonRep/projects/2
 
 ## PROJECT REPOSITORIES
 The plan for the semester will be to create four additionally  Repositories containing the information of the next four Projects for the semester.  This file will contain informative information on each Project with the aim to assist users what the scope will be for each  Project as well as how they can get started.
@@ -23,11 +23,22 @@ The Guidelines (Help) of Github was used to create a "strong password".
 3 Badge - Introduction to Git
 4 Certification - Learning Git and Github
 
-# PROJECT 3
 
+# PROJECT 3
+This project is a follow up on the previous project - Project 2.  The purpose of this project is to enahance as well as improve the existing ASP.NET Core MVC Web Application through implementing various design and code patterns.  This will enable the programmer to complete project as per its deliverables.
+
+Before the promgrammer can start with this project the following items need to be completed or checked:
+1 Establish access to the NWU Azure tenant.
+2 Create a resource group to logically group work.
+3 Isntall Visual Studios 2022 Community edition and .NET Core 3.1.
+4 Complete the rquired fork action as per the Project Brief. 
+5 Use the database and connection string provided, as it is already hosted on the cloud.
+
+For any further details regarding the project's deliverables, consult the programmer. 
 
 ## TRAINING
 1 Badge - Create a web API with ASP.NET Core controllers
+
 
 # PROJECT 4
 The programmer was tasked to complete a business user acceptance test (UAT) from an Excel Workbook with the file name: Connected Office Test Data. As part of the Project the programmer was instructed to use the Web Application platform from Project 3 as well as UIPath to complete the listed deliverables as discussed in the Project's requirements. The programmer chose UIPath which uses "robots" (Robotic Process Automation (RPA)) to complete these tedious tasks in a minimum time.
